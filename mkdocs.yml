@@ -2,6 +2,7 @@ site_name: Medieval Empires
 site_url: https://empires.rat.pink/
 site_description: Medieval Empires Game - DiamondFire
 site_author: MozzarellaRat
+docs_dir: docs
 
 repo_url: https://github.com/MozzarellaRat/empire.rat.pink
 edit_uri: blob/master/docs/
