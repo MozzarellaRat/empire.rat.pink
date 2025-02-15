@@ -5,3 +5,6 @@ site_author: MozzarellaRat
 
 repo_url: https://github.com/MozzarellaRat/empire.rat.pink
 edit_uri: blob/master/docs/
+
+nav:
+  - Home: index.md
